@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Updated license year
 - Bumped patch version
+
+## 2026-03-23
+- Reviewed security headers configuration
